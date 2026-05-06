@@ -43,7 +43,7 @@ export default function PulsingCircle() {
           </defs>
           <text className="text-sm fill-white/80">
             <textPath href="#circle" startOffset="0%">
-              Vertex Studio - Vertex Studio - Vertex Studio -
+              Молодые кадры - Вакансии 2026 - Старт карьеры -
             </textPath>
           </text>
         </motion.svg>
